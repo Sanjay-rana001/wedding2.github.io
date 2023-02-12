@@ -5,24 +5,24 @@ font-family: 'Tangerine', cursive;
   */
  @font-face {
      font-family: 'honkong';
-     src: url(fonts/Hong\ Kong\ Script\ Brush.ttf );
+     src: url(\fonts/Hong\ Kong\ Script\ Brush.ttf );
 
 
  }
 
  @font-face {
      font-family: 'darling';
-     src: url(fonts/Darling.ttf);
+     src: url(\fonts/Darling.ttf);
  }
 
  @font-face {
      font-family: 'autumn beauty';
-     src: url(fonts/AutumnBeauty.ttf);
+     src: url(\fonts/AutumnBeauty.ttf);
  }
 
  @font-face {
      font-family: 'october rose';
-     src: url(fonts/October\ Rose\ -\ Personal\ Use.otf);
+     src: url(\fonts/October\ Rose\ -\ Personal\ Use.otf);
  }
 
  :root {
